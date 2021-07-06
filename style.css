@@ -40,9 +40,7 @@ h2{
     padding:5% ;
     font-size:20px
 }
-.half-width img{
-    width: 100%;
-}
+
 .back-img{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
