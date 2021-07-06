@@ -25,7 +25,10 @@ h5{
     color: white;
     font-weight: 400;
     border-radius: 30px;
+    margin
     
+  
+  
 }
 .half-width{
     width: 50%;
@@ -34,4 +37,14 @@ h5{
 }
 .half-width img{
     width: 80%;
+}
+.back-img{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+.half-width img{
+    width: 62%;
+    padding-right: 10px;
+    padding-bottom: 10px;
+   
 }
